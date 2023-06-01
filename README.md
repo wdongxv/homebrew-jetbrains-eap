@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install wdongxv/jetbrains-eap/<formula>`
+`brew install wdongxv/jetbrains-eap/webstorm-eap`
 
-Or `brew tap wdongxv/jetbrains-eap` and then `brew install <formula>`.
+Or `brew tap wdongxv/jetbrains-eap` and then `brew install webstorm-eap`.
 
 ## Documentation
 
